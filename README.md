@@ -1,2 +1,2 @@
 # log-analyzer
-Log analyzer for Hakathon!
+Log analyzer for Hackathon!
